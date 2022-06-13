@@ -1,0 +1,3 @@
+- Hi, I'm Francys!
+- My main programming language is Python. Secondary is Java.
+- You can support me here: https://boosty.to/francys
